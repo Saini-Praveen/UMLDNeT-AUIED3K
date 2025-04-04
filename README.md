@@ -7,6 +7,7 @@ Dataset
 Add Subfolders
 
 Dataset/Raw
+
 Dataset/Reference
 
 Add Folder: To put the preprocessed Minimum loss Dehazing images
