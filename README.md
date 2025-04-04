@@ -1,29 +1,31 @@
 # UMLDNeT-AUIED3K
 # AUIED3K: A New Andaman Underwater Image Enhancement Dataset for Deep Learning-DrivenImage Enhancement with Minimum Loss Dehazing
 
-Add Folder : To put the your Dataset
+ Create a folder named Dataset to put the dataset downloaded from link given below.
 
 * **Dataset**
 
-Add Subfolders
+Dataset folder must contain two subfolders for Raw and Reference images.
 
 1. **Dataset/Raw**
 
 2. **Dataset/Reference**
 
-Add Folder: To put the preprocessed Minimum loss Dehazing images
+Add Folder: To put the preprocessed Minimum loss Dehazing images, go through minimum_loss_dehazing.py
 
 * **MLD**
 
 Add Folder: To get the Inference Images
 
 * **Outputs**
+* run python train.py
+* run python inference.py
 
 **Paper is available here:**
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890845&tag=1
 
-Dataset is available here:
+**Dataset is available here:**
 
 https://sites.google.com/iiita.ac.in/navjotsingh/research/datasets/auied3k
 
