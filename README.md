@@ -18,8 +18,11 @@ Add Folder: To put the preprocessed Minimum loss Dehazing images, go through min
 Add Folder: To get the Inference Images
 
 * **Outputs**
-* run python train.py
-* run python inference.py
+
+  
+run python train.py
+
+run python inference.py
 
 **Paper is available here:**
 
