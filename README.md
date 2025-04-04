@@ -7,9 +7,9 @@ Add Folder : To put the your Dataset
 
 Add Subfolders
 
-**Dataset/Raw**
+1. **Dataset/Raw**
 
-**Dataset/Reference**
+2. **Dataset/Reference**
 
 Add Folder: To put the preprocessed Minimum loss Dehazing images
 
@@ -17,9 +17,9 @@ Add Folder: To put the preprocessed Minimum loss Dehazing images
 
 Add Folder: To get the Inference Images
 
-Outputs
+* **Outputs**
 
-Paper is available here:
+**Paper is available here:**
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890845&tag=1
 
