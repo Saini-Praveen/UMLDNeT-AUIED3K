@@ -3,7 +3,7 @@
 
 Add Folder : To put the your Dataset
 
-**Dataset**
+* **Dataset**
 
 Add Subfolders
 
@@ -13,7 +13,7 @@ Add Subfolders
 
 Add Folder: To put the preprocessed Minimum loss Dehazing images
 
-**MLD**
+* **MLD**
 
 Add Folder: To get the Inference Images
 
