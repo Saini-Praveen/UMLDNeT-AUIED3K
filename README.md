@@ -24,11 +24,11 @@ run *python inference.py*
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890845&tag=1
 
-**Dataset is available here:**
+### Dataset is available here:
 
 https://sites.google.com/iiita.ac.in/navjotsingh/research/datasets/auied3k
 
-## If you are using our code or dataset, Please cite:
+### If you are using our code or dataset, Please cite:
 
 @INPROCEEDINGS{10890845,
   author={Saini, Praveen and Singh, Navjot and Anand, Anshu S.},
