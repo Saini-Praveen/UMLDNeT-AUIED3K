@@ -15,12 +15,12 @@ Add Folder: To put the preprocessed Minimum loss Dehazing images, go through min
 
 * **MLD**
 
-## Run 
+### Run 
 * *python train.py*
 
 * *python inference.py*
 
-## Paper is available here:
+### Paper is available here:
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890845&tag=1
 
