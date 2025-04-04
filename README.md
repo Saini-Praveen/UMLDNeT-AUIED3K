@@ -15,8 +15,6 @@ Add Folder: To put the preprocessed Minimum loss Dehazing images, go through min
 
 * **MLD**
 
-
-
   
 run *python train.py*
 
